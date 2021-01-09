@@ -1,6 +1,4 @@
-﻿year_2_id,start_year,end_year,"public_tuition
-","private_tuition
-"
+﻿tuition_2_id,start_year,end_year,public_tuition,private_tuition
 1,2009,2010,7708,24463
 2,2010,2011,8079,23101
 3,2011,2012,8617,23605
